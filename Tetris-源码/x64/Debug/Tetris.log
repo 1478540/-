@@ -1,0 +1,5 @@
+﻿  Tetris.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\VS.my_C++_learning\Tetris\Tetris.cpp(38,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VS.my_C++_learning\Tetris\Tetris.cpp(133,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  Tetris.vcxproj -> D:\VS.my_C++_learning\Tetris\x64\Debug\Tetris.exe
